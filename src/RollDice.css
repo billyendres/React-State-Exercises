@@ -1,7 +1,8 @@
 .RollDice {
   display: flex;
   flex-flow: column nowrap;
-  min-height: 100vh;
+  margin-bottom: 7rem;
+  margin-top: 4rem;
 }
 
 .RollDice-container {
